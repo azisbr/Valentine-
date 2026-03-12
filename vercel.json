@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Valentine untuk Akira.html" }
+  ]
+}
